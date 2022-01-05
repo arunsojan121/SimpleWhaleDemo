@@ -2,7 +2,7 @@ name: ci
 on:
   push:
     branches:
-      - 'main'
+      - 'main'https://github.com/arathi0099/SimpleWhaleDemo/blob/master/new001.yml
 jobs:
   build:
     runs-on: ubuntu-latest
