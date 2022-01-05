@@ -2,11 +2,10 @@ name: CI to Docker Hub
 on:
   push:
     branches:
-      - 'main
+      - 'main'
 jobs:
   build:
     runs-on: ubuntu-latest
-
     steps:
       -
         name: Checkout 
